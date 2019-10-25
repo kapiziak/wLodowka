@@ -1,2 +1,5 @@
 # wLodowka
-by kapiziak and kapiziak's team for HackHeroes 2019
+
+Pełna dokumentacja w instrukcji.
+
+by kapiziak and kapiziak's team for HackHeroes &copy 2019
