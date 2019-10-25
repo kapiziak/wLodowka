@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="21dp"
+                >
+
+
+            <TextView
+                    android:id="@+id/product_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:text="Hello There."
+                    android:onClick="updateValidity"
+                    android:textSize="20sp"/>
+            <TextView
+                    android:id="@+id/product_validity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="textStart"
+
+                    android:text="21-22-2222"
+
+                    android:layout_marginTop="23dp"
+                    android:layout_marginBottom="6dp"
+            />
+
+            <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="300dp"
+                    android:checked="false"
+                    android:onClick="deleteProduct"
+            />
+
+
+</RelativeLayout>

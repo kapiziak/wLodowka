@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">wLodówka</string>
+    <string name="action_settings">Settings</string>
+    <string name="ladowanie">Ładowanie...</string>
+    <string name="wlod_wka_v1_0">wLodówka v1.0</string>
+    <string name="przegl_daj_zrzutki">Przeglądaj zrzutki</string>
+    <string name="kliknij_pajacyka">Kliknij Pajacyka</string>
+</resources>
